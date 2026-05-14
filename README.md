@@ -1,8 +1,10 @@
 # 🎬 ECutPro（E剪Pro）- 视频混剪工具
-<img width="794" height="401" alt="image" src="https://github.com/user-attachments/assets/38b19719-d97b-48cc-82e3-30631850f385" />
+<img width="949" height="472" alt="image" src="https://github.com/user-attachments/assets/125eedfd-d69d-48a8-86ad-fdbf913a7f77" />
 
 
-> ECutPro 是一款面向短视频创作者的**批量视频处理工具**。帮助你快速完成视频的差异化处理、混剪、特效添加等操作，大幅提升视频处理效率。
+
+
+> ECutPro、ECutAuto 是一款面向短视频创作者的**批量视频处理工具**。帮助你快速完成视频的差异化处理、混剪、特效添加等操作，大幅提升视频处理效率。
 
 ---
 
@@ -56,19 +58,18 @@ ECutPro（E剪Pro）与传统视频编辑软件不同，**专注于批量处理�
 <!-- 视频演示区域 -->
 <!-- 将视频文件放入 docs/videos/ 目录后替换下方路径，GitHub 原生支持 MP4 预览 -->
 
-**🎥 主界面介绍：**
+**🎥 ECutPro介绍：**
 
-https://github.com/your-repo/raw/main/docs/videos/demo-main.mp4
+(https://wcnqa6dw9kms.feishu.cn/wiki/DUxDw12R1iwZwWkeQyLc43iunid)
 
 > 💡 **提示：** 将演示视频（.mp4）上传到仓库 `docs/videos/` 目录，GitHub 会自动渲染为可播放的视频控件。
 
-**🎥 三步上手演示：**
+**🎥 ECutAuto介绍：**
 
-https://github.com/your-repo/raw/main/docs/videos/demo-quickstart.mp4
+(https://wcnqa6dw9kms.feishu.cn/wiki/IcLiwoK1Liwf4wkN480cDCqAnbb)
 
-**🎥 批量混剪效果展示：**
-
-https://github.com/your-repo/raw/main/docs/videos/demo-batch.mp4
+**🎥 ECutAuto下载：**
+https://wcnqa6dw9kms.feishu.cn/wiki/YyrJwC8dJiwdLuk0vqVcv7xqn9d
 
 ---
 
@@ -248,10 +249,11 @@ https://github.com/your-repo/raw/main/docs/videos/demo-batch.mp4
 > 🏆 **扫描二维码加群，群公告内下载软件！**
 
 <!-- 请在此处插入群二维码图片 -->
-<!-- ![加群二维码](docs/images/qrcode.png) -->
+<img width="778" height="374" alt="image" src="https://github.com/user-attachments/assets/945a5dba-ef81-47c2-b35a-ee98f73c3dc8" />
+
 
 - 📌 关注并**三连（点赞+收藏+分享）**的粉丝可**免费领取使用授权**
-- 💬 订阅试用请联系微信：**lxljm0320**
+- 💬 订阅试用请联系微信：**letschatinhere**
 
 ---
 
@@ -259,8 +261,8 @@ https://github.com/your-repo/raw/main/docs/videos/demo-batch.mp4
 
 | 渠道 | 信息 |
 |------|------|
-| 💬 微信（订阅/试用） | lxljm0320 |
-| 📖 完整使用文档 | [飞书文档](https://wcnqa6dw9kms.feishu.cn/wiki/IcLiwoK1Liwf4wkN480cDCqAnbb) |
+| 💬 微信（订阅/试用） | letschatinhere |
+| 📖 完整使用文档 | [飞书文档](https://wcnqa6dw9kms.feishu.cn/wiki/DUxDw12R1iwZwWkeQyLc43iunid) |
 | 🐛 问题反馈 | 提交 [Issue](../../issues) |
 
 ---
