@@ -1,4 +1,6 @@
 # 🎬 ECutPro（E剪Pro）- 视频混剪工具
+<img width="794" height="401" alt="image" src="https://github.com/user-attachments/assets/38b19719-d97b-48cc-82e3-30631850f385" />
+
 
 > ECutPro 是一款面向短视频创作者的**批量视频处理工具**。帮助你快速完成视频的差异化处理、混剪、特效添加等操作，大幅提升视频处理效率。
 
