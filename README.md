@@ -36,7 +36,7 @@ ECutPro（E剪Pro）与传统视频编辑软件不同，**专注于批量处理�
 | 系统 | 最低版本 |
 |------|----------|
 | Windows | Windows 10 64位 |
-| macOS | macOS 11 (Big Sur) |
+| macOS | 开发中--- |
 
 **核心优势：**
 
