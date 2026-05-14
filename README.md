@@ -249,7 +249,8 @@ https://wcnqa6dw9kms.feishu.cn/wiki/YyrJwC8dJiwdLuk0vqVcv7xqn9d
 > 🏆 **扫描二维码加群，群公告内下载软件！**
 
 <!-- 请在此处插入群二维码图片 -->
-<img width="778" height="374" alt="image" src="https://github.com/user-attachments/assets/945a5dba-ef81-47c2-b35a-ee98f73c3dc8" />
+<img width="865" height="447" alt="image" src="https://github.com/user-attachments/assets/a6d6edb6-391d-4874-843a-e88d6d2770c1" />
+
 
 
 - 📌 关注并**三连（点赞+收藏+分享）**的粉丝可**免费领取使用授权**
