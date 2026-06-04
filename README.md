@@ -1,4 +1,4 @@
-<img width="1198" height="638" alt="image" src="https://github.com/user-attachments/assets/1dbce7ac-abaa-43ac-a364-9d402a39d21d" /># 🎬 ECutPro（E剪Pro）- 视频混剪工具
+# 🎬 ECutPro（E剪Pro）- 视频混剪工具
 <img width="1450" height="970" alt="image" src="https://github.com/user-attachments/assets/f4b54093-1fd6-4c5d-8fde-3a2cf69cbf8c" />
 <img width="1198" height="638" alt="image" src="https://github.com/user-attachments/assets/303806aa-57a0-401f-9e0b-9d6cafac2853" />
 
