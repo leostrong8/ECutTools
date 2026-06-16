@@ -1,6 +1,7 @@
 # 🎬 ECutPro（E剪Pro）- 视频混剪工具
 <img width="1450" height="970" alt="image" src="https://github.com/user-attachments/assets/f4b54093-1fd6-4c5d-8fde-3a2cf69cbf8c" />
-<img width="853" height="348" alt="image" src="https://github.com/user-attachments/assets/2b8b14c1-5224-49fb-9d3c-76bf05ae565b" />
+<img width="1806" height="647" alt="image" src="https://github.com/user-attachments/assets/241f51fb-356d-4131-9886-0e94ac299cd5" />
+
 
 
 
